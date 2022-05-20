@@ -231,7 +231,7 @@ small{
 }
 
 .showcase{
-    width: 100%;
+    width: 85%;
     height: 10vh;
     position: relative;
 }
@@ -643,6 +643,12 @@ h5, .product-price{
         width: 100%;
         overflow: hidden;
         transition: max-height 0.5s;
+    }
+
+    .showcase{
+        width: 85%;
+        height: 25vh;
+        position: relative;
     }
 
     nav ul li{
